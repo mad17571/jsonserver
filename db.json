@@ -1,28 +1,224 @@
-{"Schulname":"Bleeding heart monkey","Schulkennzahl":85118,"Direktor":"Virginia Sneddon","Anzahl_Lehrer":326,"Adresse":"317 Clove Drive","Internetadresse":"a8.net"},
-{"Schulname":"Cape raven","Schulkennzahl":53170,"Direktor":"Guinevere Clemenzo","Anzahl_Lehrer":244,"Adresse":"181 Nobel Drive","Internetadresse":"theatlantic.com"},
-{"Schulname":"White-throated toucan","Schulkennzahl":20556,"Direktor":"Fletch Enos","Anzahl_Lehrer":393,"Adresse":"5470 Bonner Drive","Internetadresse":"ow.ly"},
-{"Schulname":"Eagle, long-crested hawk","Schulkennzahl":83776,"Direktor":"Cyndie Stichel","Anzahl_Lehrer":114,"Adresse":"427 Morrow Point","Internetadresse":"scientificamerican.com"},
-{"Schulname":"Common wallaroo","Schulkennzahl":69501,"Direktor":"Holly Aronovich","Anzahl_Lehrer":493,"Adresse":"09235 Barnett Drive","Internetadresse":"wiley.com"},
-{"Schulname":"Chacma baboon","Schulkennzahl":30839,"Direktor":"Kristofer Ible","Anzahl_Lehrer":450,"Adresse":"28 Dapin Road","Internetadresse":"yahoo.co.jp"},
-{"Schulname":"Wolf, mexican","Schulkennzahl":62514,"Direktor":"Leta McTurlough","Anzahl_Lehrer":414,"Adresse":"67730 Bashford Court","Internetadresse":"pen.io"},
-{"Schulname":"Flycatcher, tyrant","Schulkennzahl":41981,"Direktor":"Tish Peeters","Anzahl_Lehrer":452,"Adresse":"72 2nd Alley","Internetadresse":"ft.com"},
-{"Schulname":"Shrike, common boubou","Schulkennzahl":26416,"Direktor":"Chad Attride","Anzahl_Lehrer":386,"Adresse":"34295 Kenwood Junction","Internetadresse":"npr.org"},
-{"Schulname":"Elegant crested tinamou","Schulkennzahl":18470,"Direktor":"Tim Prantl","Anzahl_Lehrer":487,"Adresse":"47 Trailsway Place","Internetadresse":"php.net"},
-{"Schulname":"Owl, white-browed","Schulkennzahl":63259,"Direktor":"Elsworth Ligerton","Anzahl_Lehrer":469,"Adresse":"1094 Commercial Court","Internetadresse":"altervista.org"},
-{"Schulname":"Saddle-billed stork","Schulkennzahl":65711,"Direktor":"Lorelle Willwood","Anzahl_Lehrer":373,"Adresse":"744 Northfield Lane","Internetadresse":"nps.gov"},
-{"Schulname":"Thomson's gazelle","Schulkennzahl":68163,"Direktor":"Melody Boden","Anzahl_Lehrer":453,"Adresse":"5847 Blaine Trail","Internetadresse":"answers.com"},
-{"Schulname":"Nile crocodile","Schulkennzahl":13379,"Direktor":"Devora Pirdue","Anzahl_Lehrer":290,"Adresse":"6211 Kedzie Junction","Internetadresse":"virginia.edu"},
-{"Schulname":"Euro wallaby","Schulkennzahl":31318,"Direktor":"Leshia Giercke","Anzahl_Lehrer":305,"Adresse":"599 Larry Lane","Internetadresse":"businessweek.com"},
-{"Schulname":"Seal, northern elephant","Schulkennzahl":15991,"Direktor":"Floris Agnew","Anzahl_Lehrer":112,"Adresse":"3736 2nd Place","Internetadresse":"wsj.com"},
-{"Schulname":"Common eland","Schulkennzahl":87835,"Direktor":"Alvera Obray","Anzahl_Lehrer":281,"Adresse":"54 Fordem Lane","Internetadresse":"hugedomains.com"},
-{"Schulname":"Common seal","Schulkennzahl":15992,"Direktor":"Jefferson Ryam","Anzahl_Lehrer":240,"Adresse":"6682 High Crossing Drive","Internetadresse":"miibeian.gov.cn"},
-{"Schulname":"White-faced whistling duck","Schulkennzahl":27757,"Direktor":"Esdras Ezzle","Anzahl_Lehrer":160,"Adresse":"8368 Dakota Place","Internetadresse":"hp.com"},
-{"Schulname":"Galapagos sea lion","Schulkennzahl":47947,"Direktor":"Keriann Rollitt","Anzahl_Lehrer":460,"Adresse":"5 Calypso Alley","Internetadresse":"ycombinator.com"},
-{"Schulname":"Tiger","Schulkennzahl":72071,"Direktor":"Olympie Jorgensen","Anzahl_Lehrer":434,"Adresse":"08 Grim Terrace","Internetadresse":"taobao.com"},
-{"Schulname":"Radiated tortoise","Schulkennzahl":95108,"Direktor":"Meghann Tour","Anzahl_Lehrer":62,"Adresse":"6 Hayes Parkway","Internetadresse":"xing.com"},
-{"Schulname":"Wallaby, tammar","Schulkennzahl":65766,"Direktor":"Trudy Braund","Anzahl_Lehrer":165,"Adresse":"34 Arapahoe Center","Internetadresse":"list-manage.com"},
-{"Schulname":"Pelican, great white","Schulkennzahl":50001,"Direktor":"Rivi Laba","Anzahl_Lehrer":182,"Adresse":"262 Meadow Vale Alley","Internetadresse":"ustream.tv"},
-{"Schulname":"Insect, stick","Schulkennzahl":18124,"Direktor":"Kristal Cadogan","Anzahl_Lehrer":146,"Adresse":"7193 Hoepker Alley","Internetadresse":"mlb.com"},
-{"Schulname":"Stork, painted","Schulkennzahl":72225,"Direktor":"Earle Spurway","Anzahl_Lehrer":117,"Adresse":"8 Macpherson Drive","Internetadresse":"instagram.com"},
-{"Schulname":"Osprey","Schulkennzahl":95294,"Direktor":"Lynn Jeenes","Anzahl_Lehrer":335,"Adresse":"71305 Lindbergh Drive","Internetadresse":"prlog.org"},
-{"Schulname":"Kirk's dik dik","Schulkennzahl":58296,"Direktor":"Berne Yakovl","Anzahl_Lehrer":257,"Adresse":"4 Daystar Plaza","Internetadresse":"domainmarket.com"},
+[{
+    "Schulname": "Bleeding heart monkey",
+    "Schulkennzahl": 85118,
+    "Direktor": "Virginia Sneddon",
+    "Anzahl_Lehrer": 326,
+    "Adresse": "317 Clove Drive",
+    "Internetadresse": "a8.net"
+},
+{
+    "Schulname": "Cape raven",
+    "Schulkennzahl": 53170,
+    "Direktor": "Guinevere Clemenzo",
+    "Anzahl_Lehrer": 244,
+    "Adresse": "181 Nobel Drive",
+    "Internetadresse": "theatlantic.com"
+},
+{
+    "Schulname": "White-throated toucan",
+    "Schulkennzahl": 20556,
+    "Direktor": "Fletch Enos",
+    "Anzahl_Lehrer": 393,
+    "Adresse": "5470 Bonner Drive",
+    "Internetadresse": "ow.ly"
+},
+{
+    "Schulname": "Eagle, long-crested hawk",
+    "Schulkennzahl": 83776,
+    "Direktor": "Cyndie Stichel",
+    "Anzahl_Lehrer": 114,
+    "Adresse": "427 Morrow Point",
+    "Internetadresse": "scientificamerican.com"
+},
+{
+    "Schulname": "Common wallaroo",
+    "Schulkennzahl": 69501,
+    "Direktor": "Holly Aronovich",
+    "Anzahl_Lehrer": 493,
+    "Adresse": "09235 Barnett Drive",
+    "Internetadresse": "wiley.com"
+},
+{
+    "Schulname": "Chacma baboon",
+    "Schulkennzahl": 30839,
+    "Direktor": "Kristofer Ible",
+    "Anzahl_Lehrer": 450,
+    "Adresse": "28 Dapin Road",
+    "Internetadresse": "yahoo.co.jp"
+},
+{
+    "Schulname": "Wolf, mexican",
+    "Schulkennzahl": 62514,
+    "Direktor": "Leta McTurlough",
+    "Anzahl_Lehrer": 414,
+    "Adresse": "67730 Bashford Court",
+    "Internetadresse": "pen.io"
+},
+{
+    "Schulname": "Flycatcher, tyrant",
+    "Schulkennzahl": 41981,
+    "Direktor": "Tish Peeters",
+    "Anzahl_Lehrer": 452,
+    "Adresse": "72 2nd Alley",
+    "Internetadresse": "ft.com"
+},
+{
+    "Schulname": "Shrike, common boubou",
+    "Schulkennzahl": 26416,
+    "Direktor": "Chad Attride",
+    "Anzahl_Lehrer": 386,
+    "Adresse": "34295 Kenwood Junction",
+    "Internetadresse": "npr.org"
+},
+{
+    "Schulname": "Elegant crested tinamou",
+    "Schulkennzahl": 18470,
+    "Direktor": "Tim Prantl",
+    "Anzahl_Lehrer": 487,
+    "Adresse": "47 Trailsway Place",
+    "Internetadresse": "php.net"
+},
+{
+    "Schulname": "Owl, white-browed",
+    "Schulkennzahl": 63259,
+    "Direktor": "Elsworth Ligerton",
+    "Anzahl_Lehrer": 469,
+    "Adresse": "1094 Commercial Court",
+    "Internetadresse": "altervista.org"
+},
+{
+    "Schulname": "Saddle-billed stork",
+    "Schulkennzahl": 65711,
+    "Direktor": "Lorelle Willwood",
+    "Anzahl_Lehrer": 373,
+    "Adresse": "744 Northfield Lane",
+    "Internetadresse": "nps.gov"
+},
+{
+    "Schulname": "Thomson's gazelle",
+    "Schulkennzahl": 68163,
+    "Direktor": "Melody Boden",
+    "Anzahl_Lehrer": 453,
+    "Adresse": "5847 Blaine Trail",
+    "Internetadresse": "answers.com"
+},
+{
+    "Schulname": "Nile crocodile",
+    "Schulkennzahl": 13379,
+    "Direktor": "Devora Pirdue",
+    "Anzahl_Lehrer": 290,
+    "Adresse": "6211 Kedzie Junction",
+    "Internetadresse": "virginia.edu"
+},
+{
+    "Schulname": "Euro wallaby",
+    "Schulkennzahl": 31318,
+    "Direktor": "Leshia Giercke",
+    "Anzahl_Lehrer": 305,
+    "Adresse": "599 Larry Lane",
+    "Internetadresse": "businessweek.com"
+},
+{
+    "Schulname": "Seal, northern elephant",
+    "Schulkennzahl": 15991,
+    "Direktor": "Floris Agnew",
+    "Anzahl_Lehrer": 112,
+    "Adresse": "3736 2nd Place",
+    "Internetadresse": "wsj.com"
+},
+{
+    "Schulname": "Common eland",
+    "Schulkennzahl": 87835,
+    "Direktor": "Alvera Obray",
+    "Anzahl_Lehrer": 281,
+    "Adresse": "54 Fordem Lane",
+    "Internetadresse": "hugedomains.com"
+},
+{
+    "Schulname": "Common seal",
+    "Schulkennzahl": 15992,
+    "Direktor": "Jefferson Ryam",
+    "Anzahl_Lehrer": 240,
+    "Adresse": "6682 High Crossing Drive",
+    "Internetadresse": "miibeian.gov.cn"
+},
+{
+    "Schulname": "White-faced whistling duck",
+    "Schulkennzahl": 27757,
+    "Direktor": "Esdras Ezzle",
+    "Anzahl_Lehrer": 160,
+    "Adresse": "8368 Dakota Place",
+    "Internetadresse": "hp.com"
+},
+{
+    "Schulname": "Galapagos sea lion",
+    "Schulkennzahl": 47947,
+    "Direktor": "Keriann Rollitt",
+    "Anzahl_Lehrer": 460,
+    "Adresse": "5 Calypso Alley",
+    "Internetadresse": "ycombinator.com"
+},
+{
+    "Schulname": "Tiger",
+    "Schulkennzahl": 72071,
+    "Direktor": "Olympie Jorgensen",
+    "Anzahl_Lehrer": 434,
+    "Adresse": "08 Grim Terrace",
+    "Internetadresse": "taobao.com"
+},
+{
+    "Schulname": "Radiated tortoise",
+    "Schulkennzahl": 95108,
+    "Direktor": "Meghann Tour",
+    "Anzahl_Lehrer": 62,
+    "Adresse": "6 Hayes Parkway",
+    "Internetadresse": "xing.com"
+},
+{
+    "Schulname": "Wallaby, tammar",
+    "Schulkennzahl": 65766,
+    "Direktor": "Trudy Braund",
+    "Anzahl_Lehrer": 165,
+    "Adresse": "34 Arapahoe Center",
+    "Internetadresse": "list-manage.com"
+},
+{
+    "Schulname": "Pelican, great white",
+    "Schulkennzahl": 50001,
+    "Direktor": "Rivi Laba",
+    "Anzahl_Lehrer": 182,
+    "Adresse": "262 Meadow Vale Alley",
+    "Internetadresse": "ustream.tv"
+},
+{
+    "Schulname": "Insect, stick",
+    "Schulkennzahl": 18124,
+    "Direktor": "Kristal Cadogan",
+    "Anzahl_Lehrer": 146,
+    "Adresse": "7193 Hoepker Alley",
+    "Internetadresse": "mlb.com"
+},
+{
+    "Schulname": "Stork, painted",
+    "Schulkennzahl": 72225,
+    "Direktor": "Earle Spurway",
+    "Anzahl_Lehrer": 117,
+    "Adresse": "8 Macpherson Drive",
+    "Internetadresse": "instagram.com"
+},
+{
+    "Schulname": "Osprey",
+    "Schulkennzahl": 95294,
+    "Direktor": "Lynn Jeenes",
+    "Anzahl_Lehrer": 335,
+    "Adresse": "71305 Lindbergh Drive",
+    "Internetadresse": "prlog.org"
+},
+{
+    "Schulname": "Kirk's dik dik",
+    "Schulkennzahl": 58296,
+    "Direktor": "Berne Yakovl",
+    "Anzahl_Lehrer": 257,
+    "Adresse": "4 Daystar Plaza",
+    "Internetadresse": "domainmarket.com"
+}]
